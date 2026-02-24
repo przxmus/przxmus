@@ -1,0 +1,31 @@
+name: user-statistician
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Generate stats SVG
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/userstats.svg
+          colors: dark-dimmed
+          include-title: true
+          custom-title: "przxmus · GitHub Stats"
+          locale: en
+          featured-repository: przxmus/marker-fixer
+          animated-language-chart: true
+          language-animation-speed: 12
+          commit-message: "chore(profile): update generated user stats SVG"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
