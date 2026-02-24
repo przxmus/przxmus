@@ -4,7 +4,7 @@
 
 ## GitHub Stats
 
-[![przxmus GitHub stats](./images/userstats.svg)](./images/userstats.svg)
+[![przxmus GitHub stats](./images/userstats.svg)](./images/userstats.svg) 
 
 ## Featured Projects
 
