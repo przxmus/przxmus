@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="364" viewBox="0 0 900 364" role="img" aria-label="Language distribution">
+  <rect x="0" y="0" width="900" height="364" fill="#0b0f14" rx="14"/>
+  <text x="32" y="56" fill="#e2e8f0" font-size="17" font-family="Segoe UI, Arial, sans-serif">TypeScript</text>
+  <rect x="220" y="42" width="520" height="12" fill="#1f2937" rx="6"/>
+  <rect x="220" y="42" width="201" height="12" fill="#38bdf8" rx="6"/>
+  <text x="760" y="56" fill="#94a3b8" font-size="15" font-family="Segoe UI, Arial, sans-serif">38.8%</text>
+  <text x="32" y="90" fill="#e2e8f0" font-size="17" font-family="Segoe UI, Arial, sans-serif">Java</text>
+  <rect x="220" y="76" width="520" height="12" fill="#1f2937" rx="6"/>
+  <rect x="220" y="76" width="198" height="12" fill="#22c55e" rx="6"/>
+  <text x="760" y="90" fill="#94a3b8" font-size="15" font-family="Segoe UI, Arial, sans-serif">38.1%</text>
+  <text x="32" y="124" fill="#e2e8f0" font-size="17" font-family="Segoe UI, Arial, sans-serif">Rust</text>
+  <rect x="220" y="110" width="520" height="12" fill="#1f2937" rx="6"/>
+  <rect x="220" y="110" width="88" height="12" fill="#f59e0b" rx="6"/>
+  <text x="760" y="124" fill="#94a3b8" font-size="15" font-family="Segoe UI, Arial, sans-serif">17.0%</text>
+  <text x="32" y="158" fill="#e2e8f0" font-size="17" font-family="Segoe UI, Arial, sans-serif">CSS</text>
+  <rect x="220" y="144" width="520" height="12" fill="#1f2937" rx="6"/>
+  <rect x="220" y="144" width="15" height="12" fill="#e879f9" rx="6"/>
+  <text x="760" y="158" fill="#94a3b8" font-size="15" font-family="Segoe UI, Arial, sans-serif">2.9%</text>
+  <text x="32" y="192" fill="#e2e8f0" font-size="17" font-family="Segoe UI, Arial, sans-serif">Shell</text>
+  <rect x="220" y="178" width="520" height="12" fill="#1f2937" rx="6"/>
+  <rect x="220" y="178" width="9" height="12" fill="#f43f5e" rx="6"/>
+  <text x="760" y="192" fill="#94a3b8" font-size="15" font-family="Segoe UI, Arial, sans-serif">1.8%</text>
+  <text x="32" y="226" fill="#e2e8f0" font-size="17" font-family="Segoe UI, Arial, sans-serif">JavaScript</text>
+  <rect x="220" y="212" width="520" height="12" fill="#1f2937" rx="6"/>
+  <rect x="220" y="212" width="7" height="12" fill="#a78bfa" rx="6"/>
+  <text x="760" y="226" fill="#94a3b8" font-size="15" font-family="Segoe UI, Arial, sans-serif">1.4%</text>
+  <text x="32" y="260" fill="#e2e8f0" font-size="17" font-family="Segoe UI, Arial, sans-serif">HTML</text>
+  <rect x="220" y="246" width="520" height="12" fill="#1f2937" rx="6"/>
+  <rect x="220" y="246" width="0" height="12" fill="#14b8a6" rx="6"/>
+  <text x="760" y="260" fill="#94a3b8" font-size="15" font-family="Segoe UI, Arial, sans-serif">0.0%</text>
+  <text x="32" y="348" fill="#64748b" font-size="13" font-family="Segoe UI, Arial, sans-serif">updated 2026-02-24 11:13 UTC</text>
+</svg>

@@ -4,7 +4,7 @@
 
 ## GitHub Stats
 
-[![przxmus GitHub stats](./images/userstats.svg)](./images/userstats.svg) 
+[![przxmus GitHub stats](./images/userstats-20260224-111130.svg)](./images/userstats-20260224-111130.svg) 
 
 ## All Projects
 
