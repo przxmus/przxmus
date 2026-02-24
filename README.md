@@ -47,9 +47,20 @@ Local-first thumbnail workshop for YouTube creators with OpenRouter image genera
 `TypeScript` `Web app` `AI creator tooling`  
 [Live demo](https://openthumbnail.przxmus.dev)
 
+### Legacy Impact: [P-LifeSteal](https://github.com/przxmus/P-LifeSteal)
+
+A widely used Minecraft life-steal plugin with sustained community adoption. This project represents the strongest historical traction in my portfolio.
+
+`Java` `Minecraft plugin` `Legacy impact`  
+[Docs](https://devprzemus.gitbook.io/lifesteal/) | [Releases](https://github.com/przxmus/P-LifeSteal/releases)
+
 ## All Projects
 
-This section lists all original public repositories (excluding forks and the profile meta repository).
+- [minecraft-asset-explorer](https://github.com/przxmus/minecraft-asset-explorer) - Minecraft desktop asset exploration and export tool.
+- [marker-fixer](https://github.com/przxmus/marker-fixer) - OBS-to-Premiere marker conversion CLI for creator workflows.
+- [nick-hider](https://github.com/przxmus/nick-hider) - Client-side identity masking mod for Minecraft.
+- [openthumbnail](https://github.com/przxmus/openthumbnail) - AI-assisted thumbnail generation and editing web app.
+- [P-LifeSteal](https://github.com/przxmus/P-LifeSteal) - Configurable life-steal Minecraft plugin with strong community footprint.
 
 ## Contact
 
