@@ -4,6 +4,11 @@ Builder of practical tools for creators and Minecraft communities.
 
 I focus on fast, reliable software in Rust, TypeScript, and Java. I build products that solve concrete workflow problems, from content tooling to game ecosystem utilities.
 
+![Rust](https://img.shields.io/badge/Rust-tooling-black?logo=rust)
+![TypeScript](https://img.shields.io/badge/TypeScript-web%20products-3178c6?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-minecraft%20ecosystem-orange?logo=openjdk&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-practical%20shipping-0a7ea4)
+
 [Explore my projects](https://github.com/przxmus?tab=repositories) | [Website](https://przxmus.dev)
 
 ## What I Build
@@ -16,6 +21,13 @@ I focus on fast, reliable software in Rust, TypeScript, and Java. I build produc
 ## GitHub Stats
 
 This section is generated from a scheduled GitHub Action and committed as a local SVG artifact for stable rendering.
+
+[![przxmus GitHub stats](./images/userstats.svg)](./images/userstats.svg)
+
+Lasting behavior:
+- no dependency on live `readme-stats` endpoints
+- daily refresh at `02:00 UTC` via GitHub Actions
+- fallback-safe because the latest generated SVG remains committed
 
 ## Featured Projects
 

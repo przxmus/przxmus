@@ -21,7 +21,7 @@ jobs:
           image-file: images/userstats.svg
           colors: dark-dimmed
           include-title: true
-          custom-title: "przxmus · GitHub Stats"
+          custom-title: "przxmus - GitHub Stats"
           locale: en
           featured-repository: przxmus/marker-fixer
           animated-language-chart: true
