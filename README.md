@@ -2,7 +2,7 @@
 
 [Explore my projects](https://github.com/przxmus?tab=repositories) | [Website](https://przxmus.dev)
 
-## GitHub Stats
+## Languages I use
 
 [![przxmus GitHub stats](./images/userstats-20260224-111130.svg)](./images/userstats-20260224-111130.svg) 
 
