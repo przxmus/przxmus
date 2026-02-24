@@ -15,17 +15,49 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
-      - name: Generate stats SVG
+      - name: Prepare timestamped SVG path
+        id: vars
+        run: |
+          ts="$(date -u +'%Y%m%d-%H%M%S')"
+          svg="images/userstats-${ts}.svg"
+          echo "ts=${ts}" >> "$GITHUB_OUTPUT"
+          echo "svg=${svg}" >> "$GITHUB_OUTPUT"
+
+      - name: Remove previous stats SVG files
+        run: |
+          rm -f images/userstats.svg
+          rm -f images/userstats-*.svg
+
+      - name: Generate minimal dark language stats
         uses: cicirello/user-statistician@v1
         with:
-          image-file: images/userstats.svg
-          colors: dark-dimmed
-          include-title: true
-          custom-title: "przxmus - GitHub Stats"
+          image-file: ${{ steps.vars.outputs.svg }}
+          colors: dark
+          include-title: false
+          show-border: false
+          category-order: languages
+          animated-language-chart: false
+          commit-and-push: false
           locale: en
-          featured-repository: przxmus/marker-fixer
-          animated-language-chart: true
-          language-animation-speed: 12
-          commit-message: "chore(profile): update generated user stats SVG"
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update README image path
+        run: |
+          svg="${{ steps.vars.outputs.svg }}"
+          perl -i -pe 's#\./images/userstats[^)]*#./'"$svg"'#g' README.md
+
+      - name: Commit and push refreshed stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A images README.md
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "chore(profile): refresh stats SVG (${{ steps.vars.outputs.ts }})"
+          git push
