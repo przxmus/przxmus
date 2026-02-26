@@ -8,6 +8,7 @@
 
 ## All Projects
 
+- [better-markers](https://github.com/przxmus/better-markers) - OBS plugin for better marker workflow, making videos easy to later cut in editing software.
 - [minecraft-asset-explorer](https://github.com/przxmus/minecraft-asset-explorer) - Minecraft desktop asset exploration and export tool.
 - [marker-fixer](https://github.com/przxmus/marker-fixer) - OBS-to-Premiere marker conversion CLI for creator workflows.
 - [nick-hider](https://github.com/przxmus/nick-hider) - Client-side identity masking mod for Minecraft.
