@@ -4,7 +4,7 @@
 
 ## Languages I use
 
-[![przxmus GitHub stats](./images/userstats-20260312-040305.svg)](./images/userstats-20260312-040305.svg) 
+[![przxmus GitHub stats](./images/userstats-20260313-040105.svg)](./images/userstats-20260313-040105.svg) 
 
 ## All Projects
 
