@@ -21,3 +21,4 @@
 - Website: [przxmus.dev](https://przxmus.dev)
 - GitHub: [@przxmus](https://github.com/przxmus)
 - Discord: @przxmus
+- E-Mail: przxmus@icloud.com
