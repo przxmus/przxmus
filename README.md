@@ -8,6 +8,7 @@
 
 ## All Projects
 
+- [tipply-sdk-ts](https://github.com/przxmus/tipply-sdk-ts) - Unofficial TypeScript library/SDK for polish donation service Tipply.pl.
 - [better-markers](https://github.com/przxmus/better-markers) - OBS plugin for better marker workflow, making videos easy to later cut in editing software.
 - [minecraft-asset-explorer](https://github.com/przxmus/minecraft-asset-explorer) - Minecraft desktop asset exploration and export tool.
 - [marker-fixer](https://github.com/przxmus/marker-fixer) - OBS-to-Premiere marker conversion CLI for creator workflows.
