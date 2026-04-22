@@ -4,7 +4,7 @@
 
 ## Languages I use
 
-[![przxmus GitHub stats](./images/userstats-20260421-043833.svg)](./images/userstats-20260421-043833.svg) 
+[![przxmus GitHub stats](./images/userstats-20260422-043617.svg)](./images/userstats-20260422-043617.svg) 
 
 ## All Projects
 - [Deej UI](https://github.com/przxmus/deejui) - Very fast, ultra lightweight alternative for deej.
