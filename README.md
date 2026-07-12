@@ -17,7 +17,7 @@
 - [OpenThumbnail](https://github.com/przxmus/openthumbnail) - AI-assisted thumbnail generation and editing web app.
 - [P-LifeSteal](https://github.com/przxmus/P-LifeSteal) - Configurable life-steal Minecraft plugin.
 - [Marker Fixer](https://github.com/przxmus/marker-fixer) - OBS-to-Premiere marker conversion CLI for creator workflows.
-- [Refrag Routine Shuffler](https://github.com/przxmus/Refrag-Extension) - Configurable Chrome and Brave extension for safely shuffling maps and mods in Refrag routines.
+- [Refrag Routine Shuffler](https://github.com/przxmus/Refrag-Extension) - Configurable Chrome extension for safely shuffling maps and mods in Refrag routines.
 
 ## Contact
 
