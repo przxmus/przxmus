@@ -4,7 +4,7 @@
 
 ## Languages I use
 
-[![przxmus GitHub stats](./images/userstats-20260712-051303.svg)](./images/userstats-20260712-051303.svg) 
+[![przxmus GitHub stats](./images/userstats-20260713-052205.svg)](./images/userstats-20260713-052205.svg) 
 
 ## All Projects
 - [Śladowo](https://sladowo.pl) - "Polish Bandle", with only Polish songs.
