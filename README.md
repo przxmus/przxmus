@@ -7,6 +7,7 @@
 [![przxmus GitHub stats](./images/userstats-20261008-080543.svg)](./images/userstats-20261008-080543.svg) 
 
 ## All Projects
+- [agent-awake](https://github.com/przxmus/agent-awake) - macOS tool that keeps the Mac awake, lid closed too, while Claude Code and Codex agents work.
 - [Śladowo](https://sladowo.pl) - "Polish Bandle", with only Polish songs.
 - [Deej UI](https://github.com/przxmus/deejui) - Very fast, ultra lightweight alternative for deej.
 - [Tipply SDK TS](https://github.com/przxmus/tipply-sdk-ts) - Unofficial TypeScript library/SDK for polish donation service Tipply.pl.
