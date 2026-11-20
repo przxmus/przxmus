@@ -4,7 +4,7 @@
 
 ## Languages I use
 
-[![przxmus GitHub stats](./images/userstats-20261119-020101.svg)](./images/userstats-20261119-020101.svg) 
+[![przxmus GitHub stats](./images/userstats-20261120-020115.svg)](./images/userstats-20261120-020115.svg) 
 
 ## All Projects
 - [Agent Awake](https://github.com/przxmus/agent-awake) - macOS tool that keeps the Mac awake, lid closed too, while Claude Code and Codex agents work.
